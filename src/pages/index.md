@@ -3,9 +3,9 @@ templateKey: index-page
 title: Great coffee with a conscience
 image: /img/woman-feeling-tooth-pain.jpg
 heading: Teeth remedy
-subheading: Support sustainable farming while enjoying a cup
+subheading: Tooth pain is one of the horrific pain we experience
 mainpitch:
-  title: Why Kaldi
+  title: Tooth Pain
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
