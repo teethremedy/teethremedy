@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/depositphotos_18683765_m-2015.jpg
-heading: Great coffee with a conscience
+image: /img/woman-feeling-tooth-pain.jpg
+heading: Teeth remedy
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
