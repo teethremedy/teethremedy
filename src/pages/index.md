@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Fight Tooth pain
+title: Fight Tooth pain...!!
 image: /img/woman-feeling-tooth-pain.jpg
 heading: Teeth remedy
 subheading: Tooth pain is one of the horrific pain we experience
